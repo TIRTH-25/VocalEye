@@ -1,0 +1,9 @@
+speechrecognition
+pyaudio
+google-generativeai
+pyttsx3
+reportlab
+config
+python-docx
+python-pptx
+keyring
