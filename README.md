@@ -48,7 +48,7 @@ Before running VocalEye, you will need:
 
 We value your feedback! If you encounter any issues or have suggestions, please reach out.
 
-📧 **Email us directly:** [team@vocaleye.com](mailto:team@vocaleye.com?subject=VocalEye%20Feedback)
+📧 **Email us directly:** [team@vocaleye.com](mailto:tirth2545@hotmail.com?subject=VocalEye%20Feedback)
 
 ## 📄 License
 
